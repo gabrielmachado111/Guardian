@@ -1,8 +1,7 @@
 // guardian-main.js - coloque este arquivo no seu GitHub (https://raw.githubusercontent.com/gabrielmachado111/Guardian/main/guardian-main.js)
 (async function(){
   // URL do arquivo de licenças
-  const LICENSE_URL = "const LICENSE_URL = "https://raw.githubusercontent.com/gabrielmachado111/Guardian/Tw-Guardian/licenses.json";
-";
+  const LICENSE_URL = "https://raw.githubusercontent.com/gabrielmachado111/Guardian/Tw-Guardian/licenses.json"
 
   // Função para extrair o nick logado no topo do Tribal Wars
   function getCurrentNick(){
@@ -239,4 +238,5 @@
   runOverview();
   runMembers();
 })();
+
 
